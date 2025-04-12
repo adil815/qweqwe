@@ -17,7 +17,6 @@ body {
   background: #ffffff;
   padding: 40px;
   border-radius: 12px;
-  transition: all 0.3s ease-in-out;
   display: flex;
   flex-direction: column;
   padding-top: 200px;
